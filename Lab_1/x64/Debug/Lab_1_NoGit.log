@@ -1,0 +1,26 @@
+﻿  Lab_1.cpp
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(7,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(99,63): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(168,46): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(267,69): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(268,3): warning C5043: "Task2::alg1::srz": спецификация исключения не соответствует предыдущему объявлению
+  D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(26,10):
+   см. объявление "Task2::alg1::srz"
+  
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(273,109): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(283,110): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(293,118): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(299,88): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(324,68): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(339,69): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(355,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(251,1): warning C4715: Task2::alg1::U: значение возвращается не при всех путях выполнения
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(182,1): warning C4715: Task2::alg1::T: значение возвращается не при всех путях выполнения
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(167,1): warning C4715: Task2::alg1::T: значение возвращается не при всех путях выполнения
+D:\Practivce2Course\Lab_1_NoGit\Lab_1.cpp(266,1): warning C4715: Task2::alg1::U: значение возвращается не при всех путях выполнения
+  Lab_1_NoGit.vcxproj -> D:\Practivce2Course\Lab_1_NoGit\x64\Debug\Lab_1.exe

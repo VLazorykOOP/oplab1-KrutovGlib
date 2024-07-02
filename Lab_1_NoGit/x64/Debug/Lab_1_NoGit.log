@@ -1,0 +1,9 @@
+﻿  Lab_1_NoGit.cpp
+D:\Practivce2Course\Lab_1_NoGit\Lab_1_NoGit.cpp(40,51): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Practivce2Course\Lab_1_NoGit\Lab_1_NoGit.cpp(72,72): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Practivce2Course\Lab_1_NoGit\Lab_1_NoGit.cpp(97,92): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Practivce2Course\Lab_1_NoGit\Lab_1_NoGit.cpp(114,82): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Practivce2Course\Lab_1_NoGit\Lab_1_NoGit.cpp(120,81): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Practivce2Course\Lab_1_NoGit\Lab_1_NoGit.cpp(129,19): warning C4101: d: неиспользованная локальная переменная
+D:\Practivce2Course\Lab_1_NoGit\Lab_1_NoGit.cpp(145,79): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  Lab_1_NoGit.vcxproj -> D:\Practivce2Course\Lab_1_NoGit\x64\Debug\Lab_1_NoGit.exe
